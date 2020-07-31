@@ -1,2 +1,2 @@
 # AngularJsKudVenkat
-AngularJs done in Intellij
+AngularJs done in Intellij edition
